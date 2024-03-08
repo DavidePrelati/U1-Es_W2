@@ -1,0 +1,27 @@
+.f-button {
+    background-color: #364757;
+    color: white;
+    font-size: small;
+    word-spacing: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+
+}
+
+.f-button button {
+    background-color: #364757;
+    border: 0;
+    color: white;
+}
+
+.div_himg2 {
+    background-color: #27313d;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.img-h2 {
+    height: 30px;
+}
